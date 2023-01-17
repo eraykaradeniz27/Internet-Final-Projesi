@@ -1,0 +1,166 @@
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\projeödev.dll.config
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\projeödev.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\projeödev.pdb
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\csc.exe
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\csc.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\csc.rsp
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\csi.exe
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\csi.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\csi.rsp
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\System.AppContext.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\System.Console.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\System.IO.Compression.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\System.Net.Http.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\System.Net.Sockets.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\System.ValueTuple.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\System.Xml.XPath.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\vbc.exe
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\vbc.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\vbc.rsp
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\VBCSCompiler.exe
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\Antlr3.Runtime.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\EntityFramework.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\EntityFramework.SqlServer.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\Newtonsoft.Json.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\System.Web.Helpers.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\System.Web.Mvc.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\System.Web.Optimization.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\System.Web.Razor.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\System.Web.WebPages.Deployment.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\System.Web.WebPages.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\System.Web.WebPages.Razor.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\WebGrease.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\EntityFramework.xml
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\EntityFramework.SqlServer.xml
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\System.Web.Helpers.xml
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\System.Web.Mvc.xml
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\System.Web.Optimization.xml
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\System.Web.Razor.xml
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\System.Web.WebPages.xml
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\System.Web.WebPages.Deployment.xml
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\System.Web.WebPages.Razor.xml
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\Newtonsoft.Json.xml
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\Antlr3.Runtime.pdb
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\obj\Debug\projeödev.csprojAssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\obj\Debug\projeödev.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\obj\Debug\projeödev.csproj.CopyComplete
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\obj\Debug\projeödev.dll
+C:\Users\batuh\OneDrive\Masaüstü\projeödev\projeödev\obj\Debug\projeödev.pdb
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\projeödev.dll.config
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\projeödev.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\projeödev.pdb
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\csc.exe
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\csc.exe.config
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\csc.rsp
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\csi.exe
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\csi.exe.config
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\csi.rsp
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\System.AppContext.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\System.Console.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\System.IO.Compression.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\System.Net.Http.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\System.ValueTuple.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\vbc.exe
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\vbc.exe.config
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\vbc.rsp
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\VBCSCompiler.exe
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\Antlr3.Runtime.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\EntityFramework.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\EntityFramework.SqlServer.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\Newtonsoft.Json.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\System.Web.Helpers.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\System.Web.Mvc.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\System.Web.Optimization.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\System.Web.Razor.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\System.Web.WebPages.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\System.Web.WebPages.Razor.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\WebGrease.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\EntityFramework.xml
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\EntityFramework.SqlServer.xml
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\System.Web.Helpers.xml
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\System.Web.Mvc.xml
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\System.Web.Optimization.xml
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\System.Web.Razor.xml
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\System.Web.WebPages.xml
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\System.Web.WebPages.Razor.xml
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\Newtonsoft.Json.xml
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\Antlr3.Runtime.pdb
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\obj\Debug\projeödev.csproj.AssemblyReference.cache
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\obj\Debug\projeödev.csproj.CoreCompileInputs.cache
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\obj\Debug\projeödev.csproj.CopyComplete
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\obj\Debug\projeödev.dll
+C:\Users\mrxsh\Desktop\int prog dağıtılacak ödevler\eray\6\projeödev\projeödev\obj\Debug\projeödev.pdb
